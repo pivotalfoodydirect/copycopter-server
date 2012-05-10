@@ -6,7 +6,7 @@ gem 'formtastic', '2.0.2'
 gem 'htmldiff', '0.0.1'
 gem 'pg', '0.13.2'
 gem 'rails', '3.1.1'
-gem 'thin', '1.3.1'
+gem 'unicorn'
 gem 'yajl-ruby', '1.1.0', :require => 'yajl'
 
 group :development do
