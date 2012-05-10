@@ -8,6 +8,7 @@ gem 'pg', '0.13.2'
 gem 'rails', '3.1.1'
 gem 'unicorn'
 gem 'yajl-ruby', '1.1.0', :require => 'yajl'
+gem 'newrelic_rpm'
 
 group :development do
   gem 'bourbon', '1.4.0'
